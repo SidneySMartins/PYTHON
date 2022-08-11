@@ -1,9 +1,6 @@
-
 # Python program for practical application of sqrt() function
-
 # import math module
 import math
-
 # function to check if prime or not
 
 
